@@ -10,6 +10,7 @@ namespace ef_console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
